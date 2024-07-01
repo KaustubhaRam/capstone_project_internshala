@@ -1,0 +1,4 @@
+#ignore unnessecary files
+titanic-checkpoint.ipynb
+*.ini
+flagged.csv
